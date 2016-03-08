@@ -1,2 +1,5 @@
-# intro-to-github-march-2016
-demo and practice repo for March 8, 2016 intro to GitHub class
+Welcome!
+
+### Useful Links
+- [Resources for learning more Git and GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
